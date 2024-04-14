@@ -1,3 +1,5 @@
 YOU SHOULD HAVE ANY BROWSER AND A VSCODE
+
 OUTPUT:
-![image](https://github.com/THULASIRAJANS/Main/assets/149935463/df9da2b5-d72d-45f0-9025-45315674acee)
+![image](https://github.com/THULASIRAJANS/Main/assets/149935463/891631f2-38ad-4688-a37c-39ba0e21d62d)
+
